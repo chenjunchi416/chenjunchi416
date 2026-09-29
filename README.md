@@ -1,3 +1,4 @@
+[github-profile-1790680740921.json](https://github.com/user-attachments/files/32800813/github-profile-1790680740921.json)
 [README.md](https://github.com/user-attachments/files/32800783/README.md)
 ## Hi there 👋
 
@@ -17,7 +18,94 @@ Here are some ideas to get you started:
 
 - 👯 I'm looking to collaborate on **some interesting projects**
 
-- 🤝 I'm looking for help with **everything that seen hard**
+- 🤝 I'm looking for help with **everything that seen hard**{
+  "version": "1.0.0",
+  "exportedAt": "2026-09-29T11:19:00.920Z",
+  "profile": {
+    "title": "Chen Junchi",
+    "subtitle": "a common freshman",
+    "currentWork": "valorant",
+    "currentLearn": "math",
+    "collaborateOn": "some interesting projects",
+    "helpWith": "everything that seen hard",
+    "ama": "how to play games",
+    "contact": "2806105780@qq.com",
+    "funFact": "i dont think i am funny",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://github.com/chenjunchi416",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "chenjunchi",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "Hao Ni",
+    "instagram": "",
+    "twitter": "john smith",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "junchi chen",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "unity",
+    "unreal"
+  ]
+}
 
 - 💬 Ask me about **how to play games**
 
